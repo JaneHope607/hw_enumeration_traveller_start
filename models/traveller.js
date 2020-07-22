@@ -20,6 +20,7 @@ Traveller.prototype.getJourneysByTransport = function (transport) {
   });
 };
 
+
 Traveller.prototype.getJourneysByMinDistance = function (minDistance) {
 
 };
